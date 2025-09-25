@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+.env/
+env/
+venv/
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data / models (keep big stuff out of GitHub)
+data/
+outputs/
+logs/
+runs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+
+# Temporary files
+*.tmp
+*.log
