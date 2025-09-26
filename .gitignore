@@ -35,3 +35,5 @@ checkpoints/
 # Temporary files
 *.tmp
 *.log
+data/
+outputs/contact_sheet.png
